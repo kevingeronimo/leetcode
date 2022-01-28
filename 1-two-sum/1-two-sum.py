@@ -3,11 +3,12 @@ class Solution:
         i = 0
         j = 0
         total = None
+        length = len(nums)
         
         while total != target:
             j += 1
             
-            if j >= len(nums):
+            if j >= length:
                 i += 1
                 j = i
             else:
