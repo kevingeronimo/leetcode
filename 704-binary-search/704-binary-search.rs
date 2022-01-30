@@ -4,18 +4,20 @@ impl Solution {
         let mut max: usize = nums.len();
 
         loop {
-            // rust will floor if the left value is not a float
-            let mid = (min + max) / 2;
+            let mid = min + (max - min) / 2;
 
             // check first guess
             if target == nums[mid] {
                 break mid as i32;
+                
             // min = mid when integer not found
             } else if min == mid {
                 break -1;
+                
             // removes right half
             } else if target < nums[mid] {
                 max = mid
+                
             // removes left half
             } else {
                 min = mid
