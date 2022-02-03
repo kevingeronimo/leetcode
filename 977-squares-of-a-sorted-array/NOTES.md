@@ -1,1 +1,1 @@
-Many ways to solve this problem. I used rust tools to get it over with :D
+Sorting manually was not the answer since the array is already sorted -_-
