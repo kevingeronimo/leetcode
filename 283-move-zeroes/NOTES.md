@@ -1,0 +1,1 @@
+Used two pointer approach.
