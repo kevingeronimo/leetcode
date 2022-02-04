@@ -1,1 +1,1 @@
-​
+Second submit puts second pointer at the end of the array. Checks if sum is less or greater then target to move pointers left or right.
