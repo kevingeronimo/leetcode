@@ -1,2 +1,2 @@
-Ill take another look at this. Guessing the two pointer method is what im supposed to be using?
-Forgot about this algo. Is simple but slow. I'll rewrite it. 
+- Ill take another look at this. Guessing the two pointer method is what im supposed to be using?
+- Forgot about this algo. Is simple but slow. I'll rewrite it. 
