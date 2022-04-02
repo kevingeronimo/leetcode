@@ -1,2 +1,3 @@
 - Ill take another look at this. Guessing the two pointer method is what im supposed to be using?
 - Forgot about this algo. Is simple but slow. I'll rewrite it. 
+- New solution is a little faster but uses more memory... I'll overlook this for now.
